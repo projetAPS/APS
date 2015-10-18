@@ -115,5 +115,5 @@ Référencer un dépôt distant et synchroniser l'historique de versions
 **git pull [alias d'un remote] [sur --> branche locale]**  
 ...
 
-**git remote add <mon_alias> https://github.com/<mon_login>/spid-git.git**  
+**git remote add mon_alias https://github.com/mon_login/spid-git.git**  
 ...
