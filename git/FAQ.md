@@ -9,6 +9,7 @@ Sur http://github.com
 
 ####Qu'est-ce qu'un commit ?
 Après avoir modifié un fichier, faire un *commit* permet d'enregistrer cette modification, de lui donner un titre et une date. En clair, cela met à jour la version du fichier.
+après si on veut le mettre sur internet, faut faire un "git push"
 
 ####Qu'est-ce qu'une branche ?
 Une *branche* est un espace dans lequel le travail effectué ne modifiera pas le fichier dans les autres branches. Une branche permet de développer son travail dans un conteneur propre et isolé. Les branches peuvent être fusionnées pour mettre en commun les modifications faites aux fichiers.
