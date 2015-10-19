@@ -114,7 +114,8 @@ Référencer un dépôt distant et synchroniser l'historique de versions
 ...
 
 **git push [vers --> alias d'un remote] [branche locale]**  
-"git push" -> envoie tout vers l'interface
+"git push" -> envoie tout vers l'interface (dans son compte, et pas dans le projet lui-même)
+ensuite ne pas oublier de faire un pull request (qui devra être accepté par un administrateur)
 ...
 
 **git pull [alias d'un remote] [sur --> branche locale]**  
