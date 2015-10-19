@@ -119,7 +119,11 @@ ensuite ne pas oublier de faire un pull request (qui devra être accepté par un
 ...
 
 **git pull [alias d'un remote] [sur --> branche locale]**  
+c'est l'inverse du push, ça envoie les fichiers mis à jour de l'interface vers l'ordi (souvent branche= master)
+puis on push
 ...
 
 **git remote add mon_alias https://github.com/mon_login/spid-git.git**  
+c'est pour être plus à l'aise
+on donne un surnom (alias) au projet
 ...
