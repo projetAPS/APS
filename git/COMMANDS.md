@@ -40,6 +40,7 @@ Consulter les modifications et effectuer une opération de commit
 ...
 
 **git add [fichier]**  
+le fichier à ajouter doit être dans le répertoire
 ...
 
 **git reset [fichier]**  
