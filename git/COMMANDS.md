@@ -41,7 +41,9 @@ Consulter les modifications et effectuer une opération de commit
 
 **git add [fichier]**  
 le fichier à ajouter doit être dans le répertoire
-...
+après on fait un commit (pour prendre en compte les modifications)
+puis on le push (pour l'avoir sur internet)
+
 
 **git reset [fichier]**  
 ...
@@ -50,6 +52,7 @@ le fichier à ajouter doit être dans le répertoire
 ...
 
 **git commit -m "[message descriptif]"**  
+pour prendre en compte les modifications
 ...
 
 **git commit -a -m "[message descriptif]"**  
@@ -111,6 +114,7 @@ Référencer un dépôt distant et synchroniser l'historique de versions
 ...
 
 **git push [vers --> alias d'un remote] [branche locale]**  
+"git push" -> envoie tout vers l'interface
 ...
 
 **git pull [alias d'un remote] [sur --> branche locale]**  
